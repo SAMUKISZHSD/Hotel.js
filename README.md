@@ -10,5 +10,5 @@ Para garantir o melhor, utilizamos uma plataforma completa que garante:
 5) Manutenção de Ar Condicionados: Permite o agendamento e o acompanhamento das atividades de manutenção dos sistemas de ar condicionado do hotel.
 
 # 🔨 Ferramentas
-VS Code
-JavaScript
+-VS Code
+-JavaScript
