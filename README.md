@@ -1,5 +1,5 @@
 #   Hotel
-
+**Sistema de um hotel feito com JavaScript**
 #  Funcionalidades 
 Para garantir o melhor, utilizamos uma plataforma completa que garante:
 1) Reserva de Quartos: permite que os funcionários do hotel registrem as reservas de quartos dos hóspedes.
