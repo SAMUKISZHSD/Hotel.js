@@ -1,5 +1,4 @@
 #   Hotel
-Procurando tirar férias, mas não sabe onde ficar? O Grande Hotel Budapeste não é apenas a melhor opção para você, como também para toda a sua família. Aqui você encontra os melhores serviços, além de ótimo atendimento, oportunidade de passeios e um cardápio cheio de delícias.
 
 #  Funcionalidades 
 Para garantir o melhor, utilizamos uma plataforma completa que garante:
