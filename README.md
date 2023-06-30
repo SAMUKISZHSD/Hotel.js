@@ -1,7 +1,7 @@
 #   Hotel
 **Sistema de um hotel feito com JavaScript**
 <div align="center">
-<img  src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1a/ea/54/hotel-presidente-4s.jpg?w=1200&h=-1&s=1'/>
+<img  src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1a/ea/54/hotel-presidente-4s.jpg?w=1200&h=-1&s=1' width="50%"/>
 </div>
 
 #  Funcionalidades 
