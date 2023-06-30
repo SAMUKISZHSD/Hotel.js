@@ -1,5 +1,9 @@
 #   Hotel
 **Sistema de um hotel feito com JavaScript**
+<div align="center">
+<img  src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1a/ea/54/hotel-presidente-4s.jpg?w=1200&h=-1&s=1'/>
+</div>
+
 #  Funcionalidades 
 Para garantir o melhor, utilizamos uma plataforma completa que garante:
 1) Reserva de Quartos: permite que os funcionários do hotel registrem as reservas de quartos dos hóspedes.
